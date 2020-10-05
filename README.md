@@ -6,4 +6,4 @@ I'm a Software Engineer at ODDS, I an expert in software infrastructure AI & Mac
 ![tao-isaman github stats](https://github-readme-stats.vercel.app/api?username=tao-isaman&show_icons=true&theme=vue-dark)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?tao-Isaman=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?tao-isaman=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
