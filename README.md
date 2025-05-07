@@ -18,7 +18,7 @@ I'm passionate about cutting-edge technologies and spend a lot of time learning 
 - 🌱 I’m always learning about **Kubernetes, Distributed Systems, and LLM fine-tuning**
 - 🧠 I enjoy exploring **new AI frameworks and scalable backend architectures**
 - 💬 Ask me about **DevOps, AI infra, Golang, Rust, and Cloud-native solutions**
-- 📫 How to reach me: *[Add your contact links here]*
+- 📫 How to reach me: see below 👇
 
 ---
 
@@ -72,5 +72,13 @@ I'm passionate about cutting-edge technologies and spend a lot of time learning 
 ## 🤝 Connect with Me
 
 <p align="left">
-<!-- Add your social links here -->
+  <a href="https://www.linkedin.com/in/isaman-sangbumrung-603222180/?locale=th_TH" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/FomIsaman" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.facebook.com/foum.isaman/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
