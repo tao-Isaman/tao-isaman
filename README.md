@@ -14,5 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tao-isaman&show_icons=true&locale=en" alt="tao-isaman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tao-isaman&" alt="tao-isaman" /></p>
-
