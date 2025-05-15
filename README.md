@@ -14,7 +14,7 @@ I'm passionate about cutting-edge technologies and spend a lot of time learning 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Prompt Lab AI and AI Infrastructure**
+- 🔭 I’m currently working on **Prompt Lab AI focus on AI Infrastructure**
 - 🌱 I’m always learning about **Kubernetes, Distributed Systems, and LLM fine-tuning**
 - 🧠 I enjoy exploring **new AI frameworks and scalable backend architectures**
 - 💬 Ask me about **DevOps, AI infra, Golang, Rust, and Cloud-native solutions**
