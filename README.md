@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tao</h1>
-<h3 align="center">Software Engineer at Promptlab AI</h3>
+<h3 align="center">AI Engineer at Promptlab AI</h3>
 
 <p align="center">
 I am an expert in software infrastructure, AI & Machine Learning infrastructure, and DevOps culture.  
